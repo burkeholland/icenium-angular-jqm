@@ -66,7 +66,12 @@
     <Content Include="jquery-mobile\jquery-1.8.2.min.js" />
     <Content Include="jquery-mobile\jquery.mobile-1.2.0.min.css" />
     <Content Include="jquery-mobile\jquery.mobile-1.2.0.min.js" />
-    <Content Include="js\hello-world.js" />
+    <Content Include="js\angular.js" />
+    <Content Include="js\app.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\jquery-mobile-angular-adapter-1.2.0.js" />
+    <Content Include="js\jquery-mobile-angular-adapter-standalone-1.2.0.js" />
+    <Content Include="js\require.js" />
     <Content Include="styles\main.css" />
     <Content Include="cordova.ios.js">
       <Platform>iOS</Platform>
